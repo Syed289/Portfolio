@@ -46,6 +46,9 @@ Key Responsibilities and Achievements:
 ### Campus Connect
 #### Technologies: React.js, CSS, Firebase
 Campus Connect is a pioneer in regards to university communication and collaboration. It provides a one-stop platform where students, teachers, alumni, and administrators can all connect and collaborate. Real-time messaging, file sharing and download, virtual meeting capabilities, allow easy engagement and flow of information (dissemination).
+![CC1](/assets/applicationform.jpeg)
+![CC1](/assets/chat4.png)
+![CC1](/assets/job.jpeg)
 
 ### Health Management System
 #### Technologies: Java, API
